@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+
 @extends('layouts.master')
 
 @section('title','Clean Blog')
